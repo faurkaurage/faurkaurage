@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @faurkaurage
+- God, Family, Country
 - 👀 I’m interested in computer, technology, IT, and hacking
-- 🌱 I’m currently learning video game design (UNITY 3D), Defense Cyber (Security Onion), and building a video game forum website (via Wix)
+- 🌱 I’m currently learning defense cyber operations stuff (Security Onion, Sysmon, ELK, Endgame), CTE (Caldera, Atomic Read Team, a little 'prelude'), and building a video game forum website (via Wix)
 - 💞️ I’m looking to collaborate on web design
 - 📫 How to reach me.... have your people call my people :) 
 
